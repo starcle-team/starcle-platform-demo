@@ -1,4 +1,4 @@
-# 🌟 StarCle Platform Demo
+# 🌟 Starcle Platform Demo
 
 > **StarCle** (Startup Recycle) — 망한 스타트업의 디지털 자산(코드, 디자인)을 되살려 거래하는 플랫폼  
 > 이 저장소는 StarCle의 데모와 오픈 가능한 UI/컴포넌트/프레임워크 리소스를 포함합니다.
